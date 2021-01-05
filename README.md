@@ -14,5 +14,5 @@
 [website]: https://sundaybrian.github.io
 [twitter]: https://twitter.com/Sunday_Omwami
 [linkedin]: https://www.linkedin.com/in/sunday-brian-13b74773/
-[restaurantmanager]: https://github.com/Sundaybrian/wissenpos
+[wissenpos]: https://github.com/Sundaybrian/wissenpos
 
