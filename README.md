@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Sundaybrian/Sundaybrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working working on [wissenpos] a restaurant management application
+- 🌱 I’m currently learning learning React-Redux,GraphQl,testing, Wordpress, 
+- 💬 Ask me about JavaScript,Nodejs, Firebase, Mongodb ,debugging and a bit of angular(pretty rusty)
+- ⚡ Fun fact: You will not believe me if i told you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
+[website]: https://sundaybrian.github.io
+[twitter]: https://twitter.com/Sunday_Omwami
+[linkedin]: https://www.linkedin.com/in/sunday-brian-13b74773/
+[restaurantmanager]: https://github.com/Sundaybrian/wissenpos
+
