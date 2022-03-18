@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [wissenpos] a restaurant management application
 - 🌱 I’m currently learning learning React-Redux, testing, Wordpress, 
-- 💬 Ask me about JavaScript,Nodejs, Firebase, Mongodb ,React,debugging
+- 💬 Ask me about JavaScript,Nodejs, Firebase, Mongodb ,React, Vue, debugging
 - ⚡ Fun fact: You will not believe me if i told you
 
 <p align = 'left'>
