@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [wissenpos] a restaurant management application
+- 🔭 I’m currently working on [creditinfo] a wrapper around creditinfo soap service management. I don't know what i'm doing,but doing it eitherway
 - 🌱 I’m currently learning learning React-Redux, testing, Wordpress, 
 - 💬 Ask me about JavaScript,Nodejs, Firebase, Mongodb ,React, Vue, debugging
 - ⚡ Fun fact: You will not believe me if i told you
@@ -19,5 +19,5 @@
 [website]: https://sundaybrian.github.io
 [twitter]: https://twitter.com/Sunday_Omwami
 [linkedin]: https://www.linkedin.com/in/sunday-brian-13b74773/
-[wissenpos]: https://github.com/Sundaybrian/wissenpos
+[creditinfo]: https://github.com/Sundaybrian/creditinfo-wrapper
 
